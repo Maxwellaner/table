@@ -1,0 +1,42 @@
+{
+  "n_client": {
+    "title": "N Cliente",
+    "active": true,
+    "classname": ""
+  },
+  "client": {
+    "title": "Cliente",
+    "active": true,
+    "classname": ""
+  },
+  "qty_chargeback": {
+    "title": "qtd chargeback",
+    "active": true,
+    "classname": "text-center"
+  },
+  "value_chargeback": {
+    "title": "value chargeback",
+    "active": true,
+    "classname": ""
+  },
+  "qty_sales": {
+    "title": "qtd vendas",
+    "active": true,
+    "classname": "text-center"
+  },
+  "total_value": {
+    "title": "valor total",
+    "active": true,
+    "classname": ""
+  },
+  "percent_chargeback": {
+    "title": "% chargeback",
+    "active": true,
+    "classname": "text-center red"
+  },
+  "percent_total_chargeback": {
+    "title": "% total chargeback",
+    "active": true,
+    "classname": "text-center red"
+  }
+}
